@@ -1,5 +1,5 @@
 # Bank Application
-A simple Bank Application written in python capable of depositing funds, withdrawing funds, checking balance, and checking user's information. 
+A simple python bank application capable of depositing funds, withdrawing funds, checking balance, and checking user's information.. 
 
 ### How to use <br />
 To begin:
